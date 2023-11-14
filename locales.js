@@ -71,5 +71,29 @@ module.exports = {
       'reset': 'リセット',
       'openin': '外部エディタを開く',
     }
+  },
+  nl: {
+    translation: {
+      'language-name': 'Nederlands',
+      'example': 'Voorbeeld',
+      'usage': 'Gebruik',
+      'title': 'Hydra functies',
+      'intro': `Er zijn vijf types functies in <a href="{{hydra}}" {{att}}>hydra</a>: bron, geometrie, kleur, mix, en moduleer.
+      Klik op een functie hier onder om het gebruik er van weer te geven. <br> (Voor een meer gedetailleerde documentatie, bekijk de <a href="{{hydra}}" {{att}}>hydra website</a>,
+        <a href="{{gettingStarted}}" {{att}}>getting started tutorial</a> of <a href="{{hydraBook}}" {{att}}>Hydra Book</a>.)`,
+      'editor-info': 'Bewerk deze code en druk op de "▶" knop of "ctrl+enter" om het uit te voeren!',
+      'src': 'Bron',
+      'coord': 'Geometrie',
+      'color': 'Kleur',
+      'combine': 'Mix',
+      'combineCoord': 'Moduleer',
+      'ext': 'Externe Bronnen',
+      'settings': 'Instellingen',
+      'array': 'Reeks',
+      'audio': 'Audio',
+      'run': 'start',
+      'reset': 'reset',
+      'openin': 'open in editor',
+    }
   }
 }
