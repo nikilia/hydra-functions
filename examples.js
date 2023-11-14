@@ -8,6 +8,7 @@ module.exports = {
                en: "default",
                es: "default",
                ja: "デフォルト",
+               nl: "standaard",
             }
          },
          {
@@ -18,6 +19,7 @@ noise( () => Math.sin(time/10)*50 , () => Math.sin(time/2)/500 )
                en: "noise interpolating between different scales and offsets",
                es: "ruido (noise) cambiando entre varias escalas y offsets",
                ja: "noise の異なるスケールやオフセットを補間",
+               nl: "ruis (noise) interpoleert tussen verschillende schalen en compensaties (offset)",
             }
          }
       ]
@@ -31,6 +33,7 @@ noise( () => Math.sin(time/10)*50 , () => Math.sin(time/2)/500 )
                en: "default",
                es: "default",
                ja: "デフォルト",
+               nl: "standaard",
             }
          },
          {
@@ -39,6 +42,7 @@ noise( () => Math.sin(time/10)*50 , () => Math.sin(time/2)/500 )
                en: "fireflies",
                es: "luciérnagas",
                ja: "蛍",
+               nl: "vuurvliegjes",
             }
          }
       ]
@@ -51,6 +55,7 @@ noise( () => Math.sin(time/10)*50 , () => Math.sin(time/2)/500 )
                en: "frequency",
                es: "frecuencia",
                ja: "周波数",
+               nl: "frequentie",
             }
          },
          {
@@ -59,6 +64,7 @@ noise( () => Math.sin(time/10)*50 , () => Math.sin(time/2)/500 )
                en: "frequency 2",
                es: "frecuencia 2",
                ja: "周波数 2",
+               nl: "frequentie 2",
             }
          },
          {
@@ -67,6 +73,7 @@ noise( () => Math.sin(time/10)*50 , () => Math.sin(time/2)/500 )
                en: "sync",
                es: "sincronización",
                ja: "シンク（同期）",
+               nl: "synchronisatie",
             }
          },
          {
@@ -75,6 +82,7 @@ noise( () => Math.sin(time/10)*50 , () => Math.sin(time/2)/500 )
                en: "offset",
                es: "offset",
                ja: "オフセット",
+               nl: "compensatie (offset)",
             }
          },
       ]
@@ -87,6 +95,7 @@ noise( () => Math.sin(time/10)*50 , () => Math.sin(time/2)/500 )
                en: "triangle",
                es: "triángulo",
                ja: "三角形",
+               nl: "driehoek",
             }
          },
          {
@@ -95,6 +104,7 @@ noise( () => Math.sin(time/10)*50 , () => Math.sin(time/2)/500 )
                en: "ellipse",
                es: "elipse",
                ja: "楕円",
+               nl: "cirkel",
             }
          },
          {
@@ -103,6 +113,7 @@ noise( () => Math.sin(time/10)*50 , () => Math.sin(time/2)/500 )
                en: "inverting blurry circle",
                es: "círculo difuminado que se invierte",
                ja: "反転するぼかした円",
+               nl: "geïnverteerde wazige cirkel",
             }
          },
          {
@@ -119,6 +130,7 @@ shape(5,0.5,0.1).repeat(19,19)
                en: "a... rainbow ball?",
                es: "una... ¿bola de arcoíris?",
                ja: "虹色のボール…？",
+               nl: "een… regenboog bal?"
             }
          },
       ]
